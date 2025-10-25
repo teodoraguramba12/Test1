@@ -5,6 +5,7 @@ class Carti{
         this.autor=autor;
         this.an=an;
         this.tara=this.tara;
+        this.nrpag=this.nrpag;
     }
 
     afiseaza(){
