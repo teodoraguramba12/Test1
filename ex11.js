@@ -1,11 +1,12 @@
 class Carti{
-    constructor(gen, nume, autor, an, tara, nrpag){
+    constructor(gen, nume, autor, an, tara, nrpag, seria){
         this.gen=gen;
         this.nume=nume;
         this.autor=autor;
         this.an=an;
         this.tara=this.tara;
         this.nrpag=this.nrpag;
+        this.seria=this.seria;
     }
 
     afiseaza(){
